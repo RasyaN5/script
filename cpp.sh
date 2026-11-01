@@ -4,4 +4,4 @@ cpp(){
     else
         echo "File $1.cpp tidal di temukan"
     fi
-}
+} 

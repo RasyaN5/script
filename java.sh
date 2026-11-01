@@ -4,4 +4,4 @@ jrun() {
     else
         echo "File $1.java tidak di temukan"
     fi
-}
+} 

@@ -4,4 +4,4 @@ py() {
     else
         echo "File $1.py tidak di Temukan"
     fi
-}
+} 
